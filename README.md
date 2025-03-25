@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishna Chetana Priyanka Perisetty</h1>
 <h3 align="center">Transforming data into stories | Crafting insights with numbers | Growing with every query 🚀📊</h3>
 Welcome to my GitHub profile!
-I'm a passionate Data Analyst who loves transforming raw data into meaningful insights, building dynamic dashboards, and solving complex problems with data-driven solutions.  
+I'm a passionate Data Analyst who loves transforming raw data into meaningful insights, building dynamic dashboards, and solving complex problems with data-driven solutions. <p align="center">
+  <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00783b43b2e53bfc4562_60d354d11e28ba37b767f933_Data%2520points%2520(1).gif" width="300px">
+</p>
 
 ## 🌟 About Me  
 ✨ **Data fuels my curiosity, and insights drive my passion!** ✨  
@@ -50,4 +52,8 @@ Excited to **gain experience, collaborate, and build impactful solutions** for t
 Let’s connect and make something amazing together! 🤝✨ 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishnachetanapriyankaperisetty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
- 
+
+
+
+
+
