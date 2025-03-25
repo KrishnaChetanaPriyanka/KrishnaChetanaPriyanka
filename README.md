@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Chetana Priyanka Perisetty</h1>
 <h3 align="center">Transforming data into stories | Crafting insights with numbers | Growing with every query 🚀📊</h3>
-Welcome to my GitHub profile! 🚀 I'm a passionate Data Analyst who loves transforming raw data into meaningful insights, building dynamic dashboards, and solving complex problems with data-driven solutions.  
+Welcome to my GitHub profile!
+I'm a passionate Data Analyst who loves transforming raw data into meaningful insights, building dynamic dashboards, and solving complex problems with data-driven solutions.  
 
 ### 😄 Pronouns
 She/Her
@@ -46,9 +47,10 @@ She/Her
 </p>
   
 ✉️ **Email:** chetanapriyanka1826@gmail.com  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=krishnachetanapriyankaperisetty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-
 ### 🚀 Let's Connect & Create!  
 I'm always eager to **learn, grow, and create!** 🧠🚀  
 Excited to **gain experience, collaborate, and build impactful solutions** for the world. 🌍🏭  
 Let’s connect and make something amazing together! 🤝✨ 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krishnachetanapriyankaperisetty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+ 
