@@ -3,9 +3,6 @@
 Welcome to my GitHub profile!
 I'm a passionate Data Analyst who loves transforming raw data into meaningful insights, building dynamic dashboards, and solving complex problems with data-driven solutions.  
 
-### 😄 Pronouns
-She/Her
-
 ## 🌟 About Me  
 ✨ **Data fuels my curiosity, and insights drive my passion!** ✨  
 - 🔍 **Data Enthusiast** with a mission to turn raw numbers into compelling stories and actionable strategies.  
