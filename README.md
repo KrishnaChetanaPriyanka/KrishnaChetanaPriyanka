@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Krishna Chetana Priyanka Perisetty!  
+Welcome to my GitHub profile! 🚀 I'm a passionate **Data Analyst** who loves transforming raw data into meaningful insights, building dynamic dashboards, and solving complex problems with data-driven solutions.  
 
-<!--
-**KrishnaChetanaPriyanka/KrishnaChetanaPriyanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me  
+- 🔭 Currently improving my **presentation and communication skills**.  
+- 🎯 Proficient in **SQL, Power BI, Python, Tableau, and Advanced Excel**.  
+- 💼 Aspiring to **grow and excel in the field of Data Analytics**.  
+- 🌍 Based in **Andhra Pradesh, India**.  
 
-Here are some ideas to get you started:
+### 🛠️ Tools & Technologies  
+- **Languages:** Python, SQL  
+- **Data Visualization:** Power BI, Tableau, Excel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📣 Let’s Connect!  
+- 💼 **LinkedIn:** [Krishna Chetana Priyanka Perisetty](https://www.linkedin.com/in/krishna-chetana-priyanka-perisetty-63553a24a)  
+- ✉️ **Email:** chetanapriyanka1826@gmail.com 
