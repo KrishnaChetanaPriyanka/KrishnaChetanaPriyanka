@@ -24,8 +24,6 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst who loves transformi
   </tr>
 </table>
  
-  
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -45,6 +43,19 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst who loves transformi
   </a>
 </p>
 
+## 👀 Profile Views:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnachetanapriyankaperisetty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+
+## 📊 GitHub Activity Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnaChetanaPriyanka&theme=light&color=5C83B1&bg_color=DDEAF6&line=5C83B1&point=3A5F8F&area=true)
+
+
+## 🏆 GitHub Achievements:
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KrishnaChetanaPriyanka&theme=graywhite&no-frame=true&margin-w=10&title_color=5C83B1&text_color=3A5F8F&bg_color=DDEAF6)
+
+## 🔥 Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaChetanaPriyanka&theme=calm&hide_border=true&background=DDEAF6&stroke=5C83B1&ring=3A5F8F&fire=5C83B1&currStreakLabel=3A5F8F)
+
 ### 📫 How to reach me? 
 <p align="left">
   <a href="https://www.linkedin.com/in/krishna-chetana-priyanka-perisetty-63553a24a" target="blank">
@@ -61,13 +72,10 @@ I'm always eager to **learn, grow, and create!** 🧠🚀
 Excited to **gain experience, collaborate, and build impactful solutions** for the world. 🌍🏭  
 Let’s connect and make something amazing together! 🤝✨ 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=krishnachetanapriyankaperisetty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-### 📊 GitHub Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnaChetanaPriyanka&theme=dracula&bg_color=FFCCE5&color=6A0572&line=55007F&point=000000&area=true&hide_border=true)
+</div>
 
-### 🔥 Total Commits:
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaChetanaPriyanka&theme=rose&hide_border=true)
+
 
 
 
