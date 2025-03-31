@@ -1,19 +1,29 @@
 <h1 align="center">Hi 👋, I'm Krishna Chetana Priyanka Perisetty</h1>
-<h3 align="center">Transforming data into stories | Crafting insights with numbers | Growing with every query 
-</h3> Welcome to my GitHub profile!
-I'm a passionate Data Analyst who loves transforming raw data into meaningful insights, building dynamic dashboards, and solving complex problems with data-driven solutions. <p align="center">
-  <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00783b43b2e53bfc4562_60d354d11e28ba37b767f933_Data%2520points%2520(1).gif" width="300px">
-</p>
+<h3 align="center">Transforming data into stories | Crafting insights with numbers | Growing with every query</h3>
 
-## About Me  
-✨ **Data fuels my curiosity, and insights drive my passion!** ✨  
-- 🔍 **Data Enthusiast** with a mission to turn raw numbers into compelling stories and actionable strategies.  
-- 📊 Proficient in **SQL, Power BI, Python, Tableau, and Advanced Excel**, crafting insightful dashboards and data visualizations.  
-- 🚀 Strong problem-solving mindset, always eager to uncover hidden patterns in data.  
-- 💡 Enthusiastic about **data storytelling, dashboard creation, and automation**.
-- 🏆 A firm believer in **continuous learning**, self-growth, and pushing the boundaries with hands-on projects.  
-- 🌍 Based in **Andhra Pradesh, India**, open to **exciting collaborations and new opportunities worldwide**.  
-- 🤝 Eager to **connect, exchange ideas, and create innovative data-driven solutions together!**  
+Welcome to my GitHub profile! I'm a passionate Data Analyst who loves transforming raw data into meaningful insights, building dynamic dashboards, and solving complex problems with data-driven solutions.
+
+<table>
+  <tr>
+    <td>
+      <h2>About Me</h2>
+      <h4>✨ Data fuels my curiosity, and insights drive my passion! ✨</h4>
+      <ul>
+        <li>🔍 <b>Data Enthusiast</b> with a mission to turn raw numbers into compelling stories and actionable strategies.</li>
+        <li>📊 Proficient in <b>SQL, Power BI, Python, Tableau, and Advanced Excel</b>, crafting insightful dashboards and data visualizations.</li>
+        <li>🚀 Strong problem-solving mindset, always eager to uncover hidden patterns in data.</li>
+        <li>💡 Enthusiastic about <b>data storytelling, dashboard creation, and automation</b>.</li>
+        <li>🏆 A firm believer in <b>continuous learning</b>, self-growth, and pushing the boundaries with hands-on projects.</li>
+        <li>🌍 Based in <b>Andhra Pradesh, India</b>, open to <b>exciting collaborations and new opportunities worldwide</b>.</li>
+        <li>🤝 Eager to <b>connect, exchange ideas, and create innovative data-driven solutions together!</b></li>
+      </ul>
+    </td>
+    <td align="right">
+      <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00783b43b2e53bfc4562_60d354d11e28ba37b767f933_Data%2520points%2520(1).gif" alt="Data Analysis GIF" width="300"/>
+    </td>
+  </tr>
+</table>
+ 
   
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +45,7 @@ I'm a passionate Data Analyst who loves transforming raw data into meaningful in
   </a>
 </p>
 
-### 📫 How to reach me?  
+### 📫 How to reach me? 
 <p align="left">
   <a href="https://www.linkedin.com/in/krishna-chetana-priyanka-perisetty-63553a24a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -52,6 +62,13 @@ Excited to **gain experience, collaborate, and build impactful solutions** for t
 Let’s connect and make something amazing together! 🤝✨ 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishnachetanapriyankaperisetty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+
+### 📊 GitHub Activity Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnaChetanaPriyanka&theme=dracula&bg_color=FFCCE5&color=6A0572&line=55007F&point=000000&area=true&hide_border=true)
+
+### 🔥 Total Commits:
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaChetanaPriyanka&theme=rose&hide_border=true)
+
 
 
 
