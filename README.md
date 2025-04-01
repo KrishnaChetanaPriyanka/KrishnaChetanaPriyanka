@@ -53,8 +53,6 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst who loves transformi
 ## 🏆 GitHub Achievements:
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KrishnaChetanaPriyanka&theme=graywhite&no-frame=true&margin-w=10&title_color=5C83B1&text_color=3A5F8F&bg_color=DDEAF6)
 
-## 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaChetanaPriyanka&theme=calm&hide_border=true&background=DDEAF6&stroke=5C83B1&ring=3A5F8F&fire=5C83B1&currStreakLabel=3A5F8F)
 
 <h2>📫 How to reach me?</h2>
 <p align="left">
