@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst who loves transformi
     </td>
   </tr>
 </table>
- 
-<h3 align="left">Languages and Tools:</h3>
+
+<h2>Languages and Tools</h2>
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst who loves transformi
   </a>
 </p>
 
-## 👀 Profile Views:
+<h2>👀 Profile Views</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnachetanapriyankaperisetty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 ## 📊 GitHub Activity Graph:
@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst who loves transformi
 ## 🔥 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaChetanaPriyanka&theme=calm&hide_border=true&background=DDEAF6&stroke=5C83B1&ring=3A5F8F&fire=5C83B1&currStreakLabel=3A5F8F)
 
-### 📫 How to reach me? 
+<h2>📫 How to reach me?</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/krishna-chetana-priyanka-perisetty-63553a24a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -66,8 +66,10 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst who loves transformi
   </a>
 </p>
   
-✉️ **Email:** chetanapriyanka1826@gmail.com  
-### 🚀 Let's Connect & Create!  
+✉️ **Email:** chetanapriyanka1826@gmail.com
+
+<h2>🚀 Let's Connect & Create!</h2> 
+
 I'm always eager to **learn, grow, and create!** 🧠🚀  
 Excited to **gain experience, collaborate, and build impactful solutions** for the world. 🌍🏭  
 Let’s connect and make something amazing together! 🤝✨ 
